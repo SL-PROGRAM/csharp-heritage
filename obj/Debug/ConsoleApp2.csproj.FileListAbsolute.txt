@@ -1,0 +1,6 @@
+d:\csharp\repos\RCDA008F-14092020\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+d:\csharp\repos\RCDA008F-14092020\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+d:\csharp\repos\RCDA008F-14092020\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+d:\csharp\repos\RCDA008F-14092020\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+d:\csharp\repos\RCDA008F-14092020\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+d:\csharp\repos\RCDA008F-14092020\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
